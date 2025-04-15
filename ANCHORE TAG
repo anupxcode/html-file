@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title> HTML ANCHOR Tag</title>
+</head>
+<body>
+    <a href="image.html"> Click here </a>
+    <br>
+    <a href=  https://www.facebook.com/photo/?fbid=179096181678356&set=a.178582835063024> facebook </a>
+
+
+</body>
+</html>
