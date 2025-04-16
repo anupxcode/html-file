@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Abbr and Bdo tag</title>
+    </head>
+<body>
+         IM WORK ON <abbr title="Hyper text markup language">HTML</abbr>
+     <br>
+        SELF <abbr title="knowing of the one ">LOVE</abbr> IS THE BEGINIG OF KNOWING THE ONE 
+    <br>
+          <abbr title="understanding">PRACTICE</abbr> MAKES A MAN PERFECT
+    <br>
+          DAILY DOING THE SAME IS FORM OF <abbr title="Just do it every day.EVERYDAY"> HABIT </abbr>
+    <hr>
+           <bdo dir="rtl">THIS IS BDO</bdo>
+    <br>
+         <bdo dir="THIS IS ANUP"></bdo> 
+</body>    
+</html>
