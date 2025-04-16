@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Html blockquote</title>
+</head> 
+<body>
+    <center>
+     <blockquote>Practice with Python program examples is always 
+         a good choice to scale up your 
+              logical understanding and programming skills 
+              and this article will provide you with the best 
+              sets of Python code examples.</blockquote>
+
+    <q>You have to believe in yourself when no one else does.” — ...
+        “When you have a dream, you've got to grab it and never let go.” — ...
+        “The most important thing is to enjoy your life—to be happy—it's all that matters.” — ...
+        “Spread love everywhere you go. ...
+        “Be yourself; everyone else is already taken.” </q>
+        <br>
+        - source
+    </center>
+ 
+
+
+</body>
+</html>
