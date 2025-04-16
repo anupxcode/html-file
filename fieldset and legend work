@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title> HTML FILDSIDE AND LEGEND </title>
+    </head>
+<body>
+    <fieldset> 
+        <legend>ব্যক্তিগত তথ্য</legend>
+        <label for="name">নাম:</label>
+        <input type="text" id="name" name="name">
+        <label for="email">ইমেইল:</label>
+        <input type="email" id="email" name="email">
+      </fieldset>
+      <hr>
+
+    <fieldset>
+         <legend>TEAM ID</legend>
+      <label for="Name">FLAXSOFT</label>
+         <input type="checkbox" id="team" name="team"></label>
+      <br>
+         <label for="name">Barsalona</label>
+      <input type="checkbox" id="WORK" name="WORK" >
+      <br>
+         <label for="">TECH WORLD</label>
+      <input type="checkbox" mute>
+
+    </fieldset>
+
+</body>
+</html>
