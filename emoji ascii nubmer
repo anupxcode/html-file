@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>HTML EMOJI</title>
+    </head>
+<body>
+   <p style="font-size: 100px;">&#128640;</p> I love code 
+    <p>She is so pretty &#128640; </p>   
+    <br>
+
+
+    <p style="font-size:100px">&#128187;</p>
+<p>I will display &#128187;</p>
+<p>I will display &#x1F4BB;</p>
+
+
+    <p style="font-size: 50px;">&#127828;</p>
+      <p>OMMM, SO TESTY &#127828; </p>
+      <p>OMMM, SO TESTY &#127828; </p>
+</body>
+</html>
