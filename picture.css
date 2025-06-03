@@ -1,0 +1,47 @@
+body{
+    background: deeppink;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.box{
+    background: wheat;
+    padding: 20px;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 4px 6px 8px rgb(0 0 0 / 20%);
+}
+
+.box img{
+    border-radius: 50%;
+    margin-top: 20px;
+    height: 80px;
+}
+
+.box h1{
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.box p{
+    font-size: 20px;
+    color: green;
+}
+
+.box button{
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 2px 8px 9px rgb(0 0 0 / 20%);
+    cursor: pointer;
+}
+
+.box button:hover{
+    background-color: green;
+    transition: 0.3s ease;
+}
